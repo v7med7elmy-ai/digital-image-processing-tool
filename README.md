@@ -152,7 +152,6 @@ streamlit run main.py
 ## 👥 Team
 
 Built by a team of 5 AI Engineering students — Menoufia University.
-
 | **Ahmed Helmy** ⭐ | GUI (main.py) · Point Operations · Morphological Operations |
 **My Role: Core Developer**
 - Built some of the Streamlit GUI including navigation structure and subplot display
