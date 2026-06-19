@@ -152,14 +152,19 @@ streamlit run main.py
 ## 👥 Team
 
 Built by a team of 5 AI Engineering students — Menoufia University.
+
 | **Ahmed Helmy** ⭐ | GUI (main.py) · Point Operations · Morphological Operations |
 **My Role: Core Developer**
 - Built some of the Streamlit GUI including navigation structure and subplot display
 - Implemented all Point Operations with single/dual-image support and safe division logic
 - Implemented Morphological Operations: Dilation, Erosion, Opening, Boundary Extraction
+
 | **Ammar Yasser** | GUI (main.py) · Edge Detection · App Integration & Linking |
+
 | **Ahmed Saber** | Histogram Processing |
+
 | **Abdulrahman Sobqy** | Filter Logic |
+
 | **AbdelMonsef** | Color Operations · Morphological Operations |
 ---
 
