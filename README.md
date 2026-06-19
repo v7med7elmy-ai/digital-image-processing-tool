@@ -118,15 +118,15 @@ An interactive web application built with Streamlit that covers 8 major Digital 
 ```
 digital-image-processing-tool/
 │
-├── main.py                  # App entry point & GUI navigation
-├── point_operations.py      # Addition, Subtraction, Division, Complement
-├── color_operations.py      # Color channel manipulation
-├── Histogram.py             # Stretching, Equalization, Thresholding
-├── filters_logic.py         # Linear & Non-linear filters, Restoration
-├── edge_detection.py        # Sobel edge detector
-├── morphology_logic.py      # Dilation, Erosion, Opening, Boundary
-├── screenshots/             # App screenshots
-├── samples/                 # Sample test images
+├── main.py                 
+├── point_operations.py      
+├── color_operations.py     
+├── Histogram.py            
+├── filters_logic.py        
+├── edge_detection.py       
+├── morphology_logic.py    
+├── screenshots/            
+├── samples/               
 ├── requirements.txt
 └── README.md
 ```
@@ -143,16 +143,20 @@ streamlit run main.py
 ```
 
 ---
+## 👥 Team
 
-## 👥 Team & My Role
+Built by a team of 5 AI Engineering students — Menoufia University.
 
-Built by a team of 5 AI Engineering students.
-
+| Name | Contribution |
+| **Ahmed Helmy** ⭐ | GUI (main.py) · Point Operations · Morphological Operations |
 **My Role: Core Developer**
-- Built some of of the Streamlit GUI including navigation structure and subplot display
+- Built some of the Streamlit GUI including navigation structure and subplot display
 - Implemented all Point Operations with single/dual-image support and safe division logic
 - Implemented Morphological Operations: Dilation, Erosion, Opening, Boundary Extraction
-  
+| **Ammar Yasser** | GUI (main.py) · Edge Detection · App Integration & Linking |
+| **Ahmed Saber** | Histogram Processing |
+| **Abdulrahman Sobqy** | Filter Logic |
+| **AbdelMonsef** | Color Operations · Morphological Operations |
 ---
 
 ## 👤 Author
