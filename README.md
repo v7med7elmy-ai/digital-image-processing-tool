@@ -149,7 +149,7 @@ streamlit run main.py
 Built by a team of 5 AI Engineering students.
 
 **My Role: Core Developer**
-- Built ~50% of the Streamlit GUI including navigation structure and subplot display
+- Built some of of the Streamlit GUI including navigation structure and subplot display
 - Implemented all Point Operations with single/dual-image support and safe division logic
 - Implemented Morphological Operations: Dilation, Erosion, Opening, Boundary Extraction
   
