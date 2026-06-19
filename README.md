@@ -21,15 +21,6 @@ An interactive web application built with Streamlit that covers 8 major Digital 
 ### Histogram Processing
 ![Histogram](screenshots/histogram.png)
 
-### Filters & Restoration
-![Filters](screenshots/filters.png)
-
-### Noise Reduction
-![Noise Reduction](screenshots/noisereduction.png)
-
-###  Edge Detection
-![detection](screenshots/edge_detection.png)
-
 ###  Morphology
 ![Morphology](screenshots/morphology.png)
 
