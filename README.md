@@ -9,21 +9,15 @@ An interactive web application built with Streamlit that covers 8 major Digital 
 [![DIP Tool Demo](https://img.shields.io/badge/Watch-Demo-red?logo=linkedin)](your-linkedin-video-link-here)
 
 ---
-
 ## 🖼️ Screenshots
 
-### Point Operations
-![Point Operations](screenshots/point_operations.png)
+| Point Operations | Color Operations |
+|-----------------|-----------------|
+| ![Point Operations](screenshots/point_operations.png) | ![Color Operations](screenshots/color_operations.png) |
 
-### Color Operations
-![Color Operations](screenshots/color_operations.png)
-
-### Histogram Processing
-![Histogram](screenshots/histogram.png)
-
-###  Morphology
-![Morphology](screenshots/morphology.png)
-
+| Histogram Processing | Morphology |
+|---------------------|------------|
+| ![Histogram](screenshots/histogram.png) | ![Morphology](screenshots/morphology.png) |
 ---
 
 ## ⚙️ Features
